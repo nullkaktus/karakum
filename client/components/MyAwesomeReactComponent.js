@@ -3,7 +3,6 @@
  */
 
 import React from 'react';
-import RaisedButton from 'material-ui/RaisedButton';
 import AppBar from 'material-ui/AppBar';
 import Slider from 'material-ui/Slider';
 import {
